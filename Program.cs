@@ -21,6 +21,7 @@ namespace faktoriyel_hesaplama
 
             Console.WriteLine("{0} Sayısının Faktöriyeli={1}", sayi, faktoriyel);
             Console.ReadLine();
+            //gayet güzel olmuş
         }
     }
 }
